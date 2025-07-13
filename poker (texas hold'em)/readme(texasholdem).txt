@@ -1,6 +1,6 @@
 this is definitely my favourite coding project. i worked on this project during late sec3 to early sec4 at school, usually in between classes and in the morning. the whole program took me about 4 months 
 
-i learnt the most from this out of all my projects (with chatgpt as my teacher haha), but i still wanted the project to be 'mine', so i never copied and paste any code. i was still only knew beginner-level python, so i needed chatgpt to learn how to iterate backwards and stuff like that.
+i learnt the most from this out of all my projects (with chatgpt as my teacher haha), but i still wanted the project to be 'mine', so i never copied and paste any code. i still only knew beginner-level python, so i needed chatgpt to learn how to iterate backwards and stuff like that.
 
 obviously the code isnt very efficient, and its quite messsy and unreadable (i didn't write any comments), but all the ideas for the player's hand evaluation are mine and im pround of them :)
 
