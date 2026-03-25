@@ -1,0 +1,9 @@
+this is a small tool i coded for my father to help him sort out his excel sheet of stocks.
+
+he would copy his portfolio from his account webpage and paste it into an excel sheet, however it wasnt organised in any useful manner and had a lot of redundant information (eg. percentages and seperators). he would spend a lot of time sorting it out manually, so i wrote this program to automate it.
+
+basically, it would go down the column, and look for a stock name, then sort only the necessary information horizontally until it reached the next stock name or last stock detail (which the user specified)
+
+the stock name, and redundant cells all had distinct properties which i used to identify them in the code
+
+i used my knowledge of bash on linux (arch linux) to write the script (sortstocks.sh) in order to make the program simple to use

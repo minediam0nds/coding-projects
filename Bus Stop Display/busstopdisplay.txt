@@ -1,0 +1,24 @@
+this is my first embedded systems project
+
+i had an idea to make some kind of device that would display the next arrivals of the bus stop i used most often
+
+after researching online i found a project on github (https://github.com/awesomelionel/singapore-bus-timing-edisplay) that happened to be based in singapore as well. i took alot of inspiration from this repository
+
+however instead of using a Raspberry Pi Zero like the other project did, i decided to use an esp32 as it is more power-efficient (to fit with the low-power e-ink display), in case i ever decided to have it battery-powered
+
+what i used:
+
+1. Waveshare 7.5 inch E-ink display
+2. SPI HAT converter for the display
+3. Esp32 CP2102
+
+it uses LTA's Datamall API similar to the linked project
+
+as it is an ESP-32 and not a Raspberry Pi, i had to program it in C instead of python. i actually started learning C about 2 weeks before this project so this was a great learning experience for me.
+
+
+on the left is all the buses for this bus stop (it has buses going both directions visiting it)
+on the right are the buses my family uses most often, i made the numbers larger for convenience
+the clock below shows when it was last updated
+
+i am also currently 3d modeling a 3d printed case for it using FreeCAD
