@@ -14,7 +14,7 @@ what i used:
 
 it uses LTA's Datamall API similar to the linked project
 
-as it is an ESP-32 and not a Raspberry Pi, i had to program it in C instead of python. i actually started learning C about 2 weeks before this project so this was a great learning experience for me.
+as it is an ESP-32 and not a Raspberry Pi, i had to program it in C++ instead of python. i actually started learning C about 2 weeks before this project so this was a great learning experience for me.
 
 
 on the left is all the buses for this bus stop (it has buses going both directions visiting it)
